@@ -16,7 +16,7 @@ My name is Neil and I'm a computer science student from India. Here's some info 
 
 💬 Reach me by email or LinkedIn! neil.mehta310501@gmail.com | [www.linkedin.com/in/neil-mehta31](https://www.linkedin.com/in/neil-mehta31/)
 
-📫 Visit my website: [http://neilmehta31.github.io/](http://neilmehta31.github.io/)
+📫 Visit my website: [https://neilmehta.netlify.app/](https://neilmehta.netlify.app/)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neilmehta31&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats) -->
 
