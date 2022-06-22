@@ -14,7 +14,7 @@ My name is Neil and I'm a computer science student from India. Here's some info 
 - Deep Learning
 - Software Development
 
-💬 Reach me by email or LinkedIn! neil.mehta310501@gmail.com | [www.linkedin.com/in/neil-mehta31](https://www.linkedin.com/in/neil-mehta31/)
+💬 Reach me by email or LinkedIn! neil.pmehta@gmail.com | [www.linkedin.com/in/neil-mehta31](https://www.linkedin.com/in/neil-mehta31/)
 
 📫 Visit my website: [https://neilmehta.netlify.app/](https://neilmehta.netlify.app/)
 
