@@ -1,18 +1,22 @@
 ### Hi there 👋
 
-My name is Neil and I'm a computer science student from India. Here's some info about me!
+My name is Neil and I'm a computer science student at BITS Pilani, India. Here's some info about me!
 
 ⚡ Work experience: <br>
 - Machine Learning Engineer intern at Central Electronics Engineering Research Institure - Building ML/DL models for texture recognintion. [Chennai, India. Summer 2021]
 
-<!-- 🔭 Current project:  -->
-<!-- - Financial stocks DD analysis and classification (r/WallStreetBets) (ReactJS + Python/Django + PySpark + scitkit-learn). -->
+🔭 Current projects: 
+- Smart Contarct Vulnerabilty detection using deep learning
+- Lane change optimisation for autonomous driving using reinforcement learning
+- Empathy detection using deep learning.
+- Depth estimation using monocular images
 
 🌱 Interests:
 <!-- - Web development. -->
-- Machine Learning
+- Applied Machine Learning
 - Deep Learning
 - Software Development
+- Blockchain Technology
 
 💬 Reach me by email or LinkedIn! neil.pmehta@gmail.com | [www.linkedin.com/in/neil-mehta31](https://www.linkedin.com/in/neil-mehta31/)
 
