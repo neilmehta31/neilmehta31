@@ -15,6 +15,7 @@ My name is Neil and I'm a computer science student at BITS Pilani, India. Here's
 <!-- - Web development. -->
 - Applied Machine Learning
 - Deep Learning
+- Reinforcement Learning
 - Software Development
 - Blockchain Technology
 
