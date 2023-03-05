@@ -9,9 +9,6 @@ My name is Neil and I'm a computer science student at BITS Pilani, India. Here's
 🔭 Current projects: 
 - Smart Contarct Vulnerabilty detection using deep learning
 - Lane change optimisation for autonomous driving using reinforcement learning
-- Empathy detection using deep learning.
-- Depth estimation using monocular images
-- Image super resolution using DPSRGANs
 
 🌱 Interests:
 <!-- - Web development. -->
