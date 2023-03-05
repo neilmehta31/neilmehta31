@@ -3,6 +3,7 @@
 My name is Neil and I'm a computer science student at BITS Pilani, India. Here's some info about me!
 
 ⚡ Work experience: <br>
+- Software Development Engineer intern at Gokwik - Enabling D2C Checkout with RTO Suite [Remote. Jan '23 - July '23]
 - Machine Learning Engineer intern at Central Electronics Engineering Research Institure - Building ML/DL models for texture recognintion. [Chennai, India. Summer 2021]
 
 🔭 Current projects: 
