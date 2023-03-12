@@ -2,7 +2,7 @@
 
 My name is Neil and I'm a computer science student at BITS Pilani, India. 
 A Software Developer, passionate about Machine Learning, Data Science & Distributed Systems, with experience building Web applications and microservices with Node.js, Python, Java along with Machine Learning applications using Tensorflow, Pytorch, Keras, Scikit-learn and some other cool libraries and frameworks. I'm also interested in Blockchain and Computer Vision.
-Here's some info about me
+Here's some info about me:
 
 
 ⚡ Work experience: <br>
