@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Neil and I'm a computer science student at BITS Pilani, India. Here's some info about me!
+My name is Neil and I'm a computer science student at BITS Pilani, India. 
+A Software Developer, passionate about Machine Learning, Data Science & Distributed Systems, with experience building Web applications and microservices with Node.js, Python, Java along with Machine Learning applications using Tensorflow, Pytorch, Keras, Scikit-learn and some other cool libraries and frameworks. I'm also interested in Blockchain and Computer Vision.
+Here's some info about me
+
 
 ⚡ Work experience: <br>
 - Software Development Engineer intern at Gokwik - Enabling D2C Checkout with RTO Suite [Remote. Jan '23 - July '23]
