@@ -21,7 +21,7 @@ Here's some info about me:
 - Software Development
 - Blockchain Technology
 
-💬 Reach me by email or LinkedIn! neil.pmehta@gmail.com | [www.linkedin.com/in/neil-mehta31](https://www.linkedin.com/in/neil-mehta31/)
+💬 Connect with me via [Twitter](https://twitter.com/NeilMehta31), [LinkedIn](https://www.linkedin.com/in/neil-mehta31/) or [email](mailto:neil.pmehta@gmail.com).
 
 📫 Visit my website: [https://neilmehta.netlify.app/](https://neilmehta.netlify.app/)
 
