@@ -4,9 +4,9 @@ My name is Neil.
 A Software Developer, passionate about building new products and solving problems, with experience building solutions and microservices with Java, Kotlin and Node.js along with Machine Learning applications using Tensorflow, Pytorch, Keras, Scikit-learn and some other web3 libraries and frameworks such as hardhat and metamask wallet. I'm also interested in Blockchain and its application. Lately have been investing my time in the web3 space build a NFT marketplace on the intersection of AI generated music.  
 Here's some info about me:
 ⚡ Work experience: <br>
-- Software Development Engineer at Navi - Android App Experience and Java/Kotlin microservices in handling the homepage and its downstream services [Bangalore. July '23 - Present]
-- Software Development Engineer intern at Gokwik - Enabling D2C Checkout with RTO Suite [Remote. Jan '23 - July '23]
-- Machine Learning Engineer intern at Central Electronics Engineering Research Institure - Building ML/DL models for texture recognintion. [Remote. Summer 2021(May 2021 - Aug 2021)]
+- Software Development Engineer at Navi - Android App Experience and Java/Kotlin microservices in handling the homepage and its downstream services [Bangalore | July '23 - Present]
+- Software Development Engineer intern at Gokwik - Enabling D2C Checkout with RTO Suite [Remote | Jan '23 - July '23]
+- Machine Learning Engineer intern at Central Electronics Engineering Research Institure - Building ML/DL models for texture recognintion. [Remote | Summer Internship 2021(May 2021 - Aug 2021)]
 
 🔭 Current projects: 
 - Lane change optimization for autonomous driving using reinforcement learning
