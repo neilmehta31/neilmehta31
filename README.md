@@ -5,6 +5,7 @@ A Software Developer, passionate about building new products and solving problem
 Here's some info about me:<br>
 
 ⚡ Work experience: <br>
+- Software Development Engineer at Upcover
 - Software Development Engineer at Navi - Android App Experience and Java/Kotlin microservices in handling the homepage and its downstream services [Bangalore | July '23 - Present]
 - Software Development Engineer intern at Gokwik - Enabling D2C Checkout with RTO Suite [Remote | Jan '23 - July '23]
 - Machine Learning Engineer intern at Central Electronics Engineering Research Institure - Building ML/DL models for texture recognintion. [Remote | Summer Internship 2021(May 2021 - Aug 2021)]
